@@ -7,7 +7,9 @@
 
 Command used (windows): set authService_jwtPrivateKey=example
 
-3- node app.js
+3- Run MongoDB using "mongod" command
+
+4- node app.js
 
 ## Descripion
 This authentification service api has three endpoints:

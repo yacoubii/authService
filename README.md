@@ -11,7 +11,7 @@ Command used (windows): set authService_jwtPrivateKey=example
 
 4- node app.js
 
-## Descripion
+## Description
 This authentification service api has three endpoints:
 
 1- /register that can register a user with email, username and password. It returns "User already registered." message if the user is already registered, otherwise it returns the whole user object ('_id','username','email').
